@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Tiwari Bipin",
+        "age": 20,
+        "email": "bipintiwari118@gmail.com",
+        "address": "Raniban"
+    },
+
+    {
+        "name": "Puja Tiwari",
+        "age": 30,
+        "email": "pujatiwari1200@gmail.com",
+        "address": "Kathamndu"
+    },
+
+    {
+        "name": "Tiwari pushpa",
+        "age": 40,
+        "email": "pushpa500@gmail.com",
+        "address": "pokhara"
+    },
+    {
+        "name": "Suresh chand",
+        "age": 50,
+        "email": "suresh@gmail.com",
+        "address": "gorkha"
+    },
+    {
+        "name": "Tiwari raju",
+        "age": 22,
+        "email": "raju@gmail.com",
+        "address": "kalanki"
+    },
+
+    {
+        "name": "laxmi Tiwari",
+        "age": 35,
+        "email": "laxmitiwari1200@gmail.com",
+        "address": "fujel"
+    },
+
+    {
+        "name": "Tiwari binod",
+        "age": 45,
+        "email": "binodtiwar500@gmail.com",
+        "address": "pokhara"
+    },
+    {
+        "name": "Sunita",
+        "age": 50,
+        "email": "sunita@gmail.com",
+        "address": "jalbirya"
+    }
+]
